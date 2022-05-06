@@ -1,0 +1,3 @@
+﻿  Bai005.cpp
+C:\Users\quocd\Desktop\LapTrinhHam\Bai005\Bai005.cpp(17,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Bai005.vcxproj -> C:\Users\quocd\Desktop\LapTrinhHam\x64\Debug\Bai005.exe
