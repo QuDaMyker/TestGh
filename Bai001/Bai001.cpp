@@ -33,3 +33,6 @@ float Khoang_Cach(float xA, float yA, float xB, float yB)
 {
 	return sqrt((xA - xB) * (xA - xB) + (yA - yB) * (yA - yB));
 }
+
+
+// đã sửa vài chỗ
