@@ -1,4 +1,0 @@
-﻿  Bai138.cpp
-C:\Users\quocd\Desktop\Mang1Chieu\Bai138\Bai138.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\quocd\Desktop\Mang1Chieu\Bai138\Bai138.cpp(32,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Bai138.vcxproj -> C:\Users\quocd\Desktop\Mang1Chieu\x64\Debug\Bai138.exe

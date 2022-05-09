@@ -1,3 +1,0 @@
-﻿  Bai139.cpp
-C:\Users\quocd\Desktop\Mang1Chieu\Bai139\Bai139.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Bai139.vcxproj -> C:\Users\quocd\Desktop\Mang1Chieu\x64\Debug\Bai139.exe
