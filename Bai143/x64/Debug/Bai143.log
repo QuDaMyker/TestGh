@@ -1,3 +1,0 @@
-﻿  Bai143.cpp
-C:\Users\quocd\Desktop\Mang1Chieu\Bai143\Bai143.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Bai143.vcxproj -> C:\Users\quocd\Desktop\Mang1Chieu\x64\Debug\Bai143.exe
